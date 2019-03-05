@@ -2,3 +2,4 @@
 - Needs 5 1/4 inch blanking panel for front or CD-ROM drive
 - Has weirdy two-HDD setup, can't remember why.
 - RISC OS 3.5 so must load !Boot from small HDD
+- No network card.
