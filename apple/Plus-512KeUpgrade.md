@@ -1,0 +1,6 @@
+- Wobbly video.  Perhaps a dodgy solder joint on the analogue board or a dodgy ground connection? (cf http://www.ccadams.org/se/screen.html)
+- Doesn't boot from floppy, just spits it back out and returns to flashing ?.
+	- Only tried this with 6.0.8.
+	- Perhaps it's something about the disc?
+	- Perhaps drive.  Try FDD emu when I get one.
+- No CMOS battery.  Get one.

@@ -1,0 +1,5 @@
+- Completely knackered, doesn't boot, no chimes.  As far as I know never has.
+- Fan and PSU seem to be working
+- Floppy drive has gone entirely missing
+- No idea what's on the hard disc
+- No apple logo decal on the case.

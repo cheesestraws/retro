@@ -1,0 +1,4 @@
+- Analogue board seems fine: audio works and video is stable
+- Boots
+- Floppy drive knackered and disc is stuck in it.
+- No CMOS battery.  Get one.
