@@ -1,0 +1,2 @@
+- Stable.  Has no CMOS battery.
+- Picky about its monitor.  Tell it has a 13" RGB (145 on the switched adaptor)
