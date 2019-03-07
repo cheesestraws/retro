@@ -1,0 +1,3 @@
+- Works fine
+- Need data link cable and perhaps new PSU
+- Need PCMCIA blanking plate

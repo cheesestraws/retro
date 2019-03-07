@@ -1,0 +1,2 @@
+- Completely knackered
+- Power light comes on but no sign of life, no chime, nowt

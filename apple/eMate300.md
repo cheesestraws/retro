@@ -1,0 +1,5 @@
+- Working fine
+- Needs new battery / battery reconditioning
+- Try orinoco wireless driver
+- Would be nice to try porting PuTTy core to this?
+- Need data link cable and perhaps a PSU (there is one PSU between this and MP2000)
