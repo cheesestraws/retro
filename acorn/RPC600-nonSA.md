@@ -1,5 +1,6 @@
-- Needs new CMOS battery quite urgently.
+- CMOS battery replaced
+- PC card doesn't work.
 - Needs 5 1/4 inch blanking panel for front or CD-ROM drive
-- Has weirdy two-HDD setup, can't remember why.
-- RISC OS 3.5 so must load !Boot from small HDD
+- RISC OS 3.5 so must load !Boot from small HDD before using big HDD
 - No network card.
+- Perhaps hairline fracture in motherboard?  Seems very picky about clips
